@@ -1,5 +1,7 @@
 ### Hi there 👋
-I'm currently learning GitHub
+
+Currently completing the Northcoders Software Development bootcamp!
+
 <!--
 **robbochobbo/robbochobbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
