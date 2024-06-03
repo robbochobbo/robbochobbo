@@ -1,8 +1,8 @@
-### Hi there 👋
+<h3 align="center"> 
+  Hey, I'm Robert, a junior software dev from Sheffield, UK 👋
+</h3>
 
-Junior Software Dev, recent grad of Northcoders. 
-
-Continuing to learn and develop on new projects.
-
-![Alt text](https://robbochobbo.github.io/Northcoders_logo.svg)
-<img src="robbochobbo.github.io/Northcoders_logo.svg">
+<p align="center">
+  Continuing to learn and develop on new projects.
+  
+</p>
