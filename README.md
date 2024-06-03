@@ -2,16 +2,6 @@
 
 <p align="center"> Junior software developer from <b>Sheffield, UK</b>, looking to learn everything I can about code <img src="https://emojis.slackmojis.com/emojis/images/1655291484/59662/my_computer.png?1655291484" width="25"> </p>
 
-<h3>About Me</h3>
-<p>
-    <ul>
-      <li>🎓 Northcoders Full-Stack Software Development graduate </li>
-      <li>🎸 <a href="https://www.youtube.com/@robbiechapman6780/videos">Guitar-player</a> </li>
-      <li>🔨 <a href="https://www.instagram.com/greenhill_house_/">House-renovator</a> </li>
-      <li>🐈‍⬛ Cat-cohabiter </li>
-    </ul>
-</p>
-
 <h3>Languages & Tools</h3>
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f7df1d?style=flat-square&logo=javascript&logoColor=white" />
@@ -34,5 +24,15 @@
     <li>🗞️ <a href="https://rc-nc-news.netlify.app/">NC-NEWS</a>, a Reddit-style website that allows users to read, comment and vote on articles: <a href="https://github.com/robbochobbo/nc-news">backend</a>, <a href="https://github.com/robbochobbo/nc-news">frontend</a>. </li>
     <li>🕹️ <a href="https://www.youtube.com/watch?v=yOWpOifUOjw">Music Clash</a>, a "<a href="https://www.nytimes.com/games/connections">Connections</a>"-style multiplayer mobile/web app game: <a href="https://github.com/tartebabba/music-clash">repo.</a></li>
   </ul>
+</p>
+
+<h3>Some more about me...</h3>
+<p>
+    <ul>
+      <li>🎓 Northcoders Full-Stack Software Development graduate </li>
+      <li>🎸 <a href="https://www.youtube.com/@robbiechapman6780/videos">Guitar-player</a> </li>
+      <li>🔨 <a href="https://www.instagram.com/greenhill_house_/">House-renovator</a> </li>
+      <li>🐈‍⬛ Cat-cohabiter </li>
+    </ul>
 </p>
 
