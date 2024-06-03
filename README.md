@@ -1,6 +1,6 @@
 <h2 align="center">Hey! I'm Robbie 👋</h2>
 
-<p align="center"> Junior software developer from <b>Sheffield, UK</b>, looking to learn everything I can about code <img src="https://emojis.slackmojis.com/emojis/images/1655291484/59662/my_computer.png?1655291484" width="25"> </p>
+<p align="center">Junior software developer from <b>Sheffield, UK</b>, looking to learn everything I can about code <img src="https://emojis.slackmojis.com/emojis/images/1655291484/59662/my_computer.png?1655291484" width="25"> </p>
 
 <h3>Languages & Tools</h3>
 <p>
