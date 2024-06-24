@@ -5,6 +5,7 @@
 <h3>Languages & Tools</h3>
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f7df1d?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-ffce3d?style=flat-square&logo=python&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-669ad3?style=flat-square&logo=C&logoColor=white" />
