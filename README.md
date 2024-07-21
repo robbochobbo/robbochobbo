@@ -30,7 +30,7 @@
     <ul>
       <li>🎓 Northcoders Full-Stack Software Development graduate </li>
       <li>🎸 <a href="https://www.youtube.com/@robbiechapman6780/videos">Guitar-player</a> </li>
-      <li>🔨 <a href="https://www.instagram.com/greenhill_house_/">House-renovator</a> </li>
+      <li>🔨 <a href="https://www.instagram.com/steelcity.house/">House-renovator</a> </li>
       <li>🐈‍⬛ Cat-cohabiter </li>
     </ul>
 </p>
