@@ -24,14 +24,3 @@
     <li>🕹️ <a href="https://www.youtube.com/watch?v=yOWpOifUOjw">Music Clash</a>, a "<a href="https://www.nytimes.com/games/connections">Connections</a>"-style multiplayer mobile/web app game: <a href="https://github.com/tartebabba/music-clash">repo.</a></li>
   </ul>
 </p>
-
-<h3>Some more about me...</h3>
-<p>
-    <ul>
-      <li>🎓 Northcoders Full-Stack Software Development graduate </li>
-      <li>🎸 <a href="https://www.youtube.com/@robbiechapman6780/videos">Guitar-player</a> </li>
-      <li>🔨 <a href="https://www.instagram.com/steelcity.house/">House-renovator</a> </li>
-      <li>🐈‍⬛ Cat-cohabiter </li>
-    </ul>
-</p>
-
