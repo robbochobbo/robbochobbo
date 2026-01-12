@@ -1,6 +1,6 @@
 <h2 align="center">Hey! I'm Robbie 👋</h2>
 
-<p>Junior software developer at [Administrate](https://www.getadministrate.com/) looking to learn everything I can about code <img src="https://emojis.slackmojis.com/emojis/images/1655291484/59662/my_computer.png?1655291484" width="25"> </p>
+<p>Junior software developer at Administrate looking to learn everything I can about code <img src="https://emojis.slackmojis.com/emojis/images/1655291484/59662/my_computer.png?1655291484" width="25"> </p>
 
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f7df1d?style=flat-square&logo=javascript&logoColor=white" />
